@@ -17,6 +17,8 @@ blue region - background
 (original image)
 
 ![a2](https://user-images.githubusercontent.com/49195906/148007849-ad82394d-8918-4b2e-a816-13fdf2ba6150.jpg)
+![b2](https://user-images.githubusercontent.com/49195906/148012170-f7ce8ae5-511e-4bcb-9f80-9e69cb223a59.jpg)
+
 
 
 # Dataset Instructions
