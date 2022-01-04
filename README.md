@@ -7,6 +7,7 @@ Unet Paper referred to in this repo - https://arxiv.org/abs/1505.04597
 (result image)
 
 red region - object
+
 blue region - background
 
 ![a1](https://user-images.githubusercontent.com/49195906/148007987-b76d4119-6b38-40a8-9138-6fb640f2a006.png)
